@@ -1,0 +1,14 @@
+D:\Projects\c#\tasks-service\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\Projects\c#\tasks-service\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\Projects\c#\tasks-service\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Projects\c#\tasks-service\API\bin\Debug\netcoreapp2.2\API.dll
+D:\Projects\c#\tasks-service\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.dll
+D:\Projects\c#\tasks-service\API\obj\Debug\netcoreapp2.2\API.pdb
